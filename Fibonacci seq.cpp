@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include <iostream>
 #include <pthread.h>
+//this is a comment
 using namespace std;
 void*doit(void*);
 int i,size,fib[0];
